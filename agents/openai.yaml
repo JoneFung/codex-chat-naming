@@ -1,0 +1,5 @@
+interface:
+  display_name: "对话自动命名"
+  short_description: "新对话首轮自动生成规范标题，并统一日期和任务分类格式"
+policy:
+  allow_implicit_invocation: true
